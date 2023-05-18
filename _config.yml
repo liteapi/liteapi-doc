@@ -1,0 +1,8 @@
+theme: jekyll-theme-hacker
+title: LiteApi
+description: Documentation of LiteApi framework
+show_downloads: true
+github:
+  zip_url: https://github.com/liteapi/liteapi/zipball/master
+  tar_url: https://github.com/liteapi/liteapi/tarball/master
+  repository_url: https://github.com/liteapi/liteapi
